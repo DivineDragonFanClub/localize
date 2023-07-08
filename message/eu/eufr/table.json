@@ -1,5 +1,6 @@
 {
     "refine_menu_item_name": "Forge",
+    "refine_menu_item_helptext": "Améliorer vos armes.",
     "command_text_on": "Oui",
     "command_text_off": "Non",
     "skip_opening_menu_item_name": "Passer la vidéo d'introduction",
