@@ -1,0 +1,10 @@
+{
+    "refine_menu_item_name": "錬成屋",
+    "refine_menu_item_helptext": "武器を錬成する",
+    "command_text_on": "ON",
+    "command_text_off": "OFF",
+    "skip_opening_menu_item_name": "オープニングムービーのスキップ",
+    "skip_opening_helptext": "起動する時、オープニングムービーをスキップします",
+    "play_opening_helptext": "起動する時、オープニングムービーを再生します",
+    "localization_authors": "DogeThis"
+}
