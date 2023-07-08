@@ -2,5 +2,8 @@
     "refine_menu_item_name": "Forge",
     "command_text_on": "Oui",
     "command_text_off": "Non",
+    "skip_opening_menu_item_name": "Passer la vidéo d'introduction",
+    "skip_opening_helptext": "Passe la vidéo d'introduction au démarrage",
+    "play_opening_helptext": "Joue la vidéo d'introduction au démarrage",
     "localization_authors": "Raytwo"
 }
