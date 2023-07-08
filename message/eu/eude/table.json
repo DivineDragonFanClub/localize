@@ -1,9 +1,9 @@
 {
     "refine_menu_item_name": "Schmiede",
-    "refine_menu_item_helptext": "Veredel deine Items",
+    "refine_menu_item_helptext": "Veredel deine Waffen.",
     "command_text_on": "An",
     "command_text_off": "Aus",
-    "skip_opening_menu_item_name": "Eröffnungssequenz überspringen",
+    "skip_opening_menu_item_name": "Eröffnungssequenz An/Aus",
     "skip_opening_helptext": "Überspringe die Eröffnungssequenz beim Spielstart",
     "play_opening_helptext": "Spiele die Eröffnungssequenz beim Spielstart ab",
     "localization_authors": "Sohn"
