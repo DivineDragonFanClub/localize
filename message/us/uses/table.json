@@ -4,7 +4,7 @@
     "command_text_on": "Sí",
     "command_text_off": "No",
     "skip_opening_menu_item_name": "Ajustes del Escena de Abertura",
-    "skip_opening_helptext": "Omitir la escena de abertura",
-    "play_opening_helptext": "Producir la escena de abertura",
+    "skip_opening_helptext": "Omitir la Escena de Abertura",
+    "play_opening_helptext": "Producir la Escena de Abertura",
     "localization_authors": "TheRutileMarmot"
 }
