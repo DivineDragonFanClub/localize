@@ -1,1 +1,10 @@
-
+{
+    "refine_menu_item_name": "Herrería",
+    "refine_menu_item_helptext": "Refinar las armas",
+    "command_text_on": "Sí",
+    "command_text_off": "No",
+    "skip_opening_menu_item_name": "Ajustes del Escena de Abertura",
+    "skip_opening_helptext": "Omitir la escena de abertura",
+    "play_opening_helptext": "Producir la escena de abertura",
+    "localization_authors": "TheRutileMarmot"
+}
