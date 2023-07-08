@@ -1,6 +1,6 @@
 {
     "refine_menu_item_name": "Herrería",
-    "refine_menu_item_helptext": "Refinar las armas",
+    "refine_menu_item_helptext": "Refinar las armas.",
     "command_text_on": "Sí",
     "command_text_off": "No",
     "skip_opening_menu_item_name": "Ajustes del Escena de Abertura",
