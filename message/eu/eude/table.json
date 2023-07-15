@@ -6,5 +6,8 @@
     "skip_opening_menu_item_name": "Eröffnungssequenz An/Aus",
     "skip_opening_helptext": "Überspringe die Eröffnungssequenz beim Spielstart",
     "play_opening_helptext": "Spiele die Eröffnungssequenz beim Spielstart ab",
+    "update_found_message": "Ein Cobalt-Update wurde gefunden. Jetzt installieren?",
+    "update_accept": "Fortfahren",
+    "update_later": "Später",
     "localization_authors": "Sohn"
 }
