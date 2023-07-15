@@ -6,5 +6,8 @@
     "skip_opening_menu_item_name": "Ajustes del Escena de Abertura",
     "skip_opening_helptext": "Omitir la Escena de Abertura",
     "play_opening_helptext": "Producir la Escena de Abertura",
+    "update_found_message": "Hay una actualizacion para Cobalt, instalar lo?",
+    "update_accept": "Acceptar",
+    "update_later": "Después",
     "localization_authors": "TheRutileMarmot"
 }
