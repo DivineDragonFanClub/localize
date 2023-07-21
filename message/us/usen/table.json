@@ -13,5 +13,6 @@
     "update_accept": "Accept",
     "update_later": "Later",
     "phoenix_mode_name": "Phoenix",
-    "localization_authors": "Raytwo"
+    "phoenix_mode_help": "Fallen units quickly return to battle.",
+    "localization_authors": "Raytwo, DogeThis"
 }
