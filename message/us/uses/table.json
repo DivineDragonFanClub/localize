@@ -12,5 +12,7 @@
     "update_found_message": "Hay una actualización para Cobalt, instalarla?",
     "update_accept": "Acceptar",
     "update_later": "Después",
+    "phoenix_mode_name": "Fénix",
+    "phoenix_mode_help": "Las unidades caídas vuelven a la batalla.",
     "localization_authors": "TheRutileMarmot"
 }
