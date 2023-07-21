@@ -12,5 +12,7 @@
     "update_found_message": "Ein Cobalt-Update wurde gefunden. Jetzt installieren?",
     "update_accept": "Fortfahren",
     "update_later": "Später",
+    "phoenix_mode_name": "Phönix",
+    "phoenix_mode_help": "Gefallene Helden kehren schnell zurück.",
     "localization_authors": "Sohn"
 }
