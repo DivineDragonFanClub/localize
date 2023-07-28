@@ -20,6 +20,7 @@
     "combat_ui_name": "Interfaz de combate",
     "combat_ui_enabled_helptext": "Muestra la interfaz durante el combate.",
     "combat_ui_disabled_helptext": "Oculta la interfaz durante el combate.",
-    "ring_polish_rumble_menu_item_name": "Vibración al pulir anillos/brazaletes",
+    "ring_polish_rumble_menu_item_name": "Vibración al pulir anillos",
+    "ring_dlc_polish_rumble_menu_item_name": "Vibración al pulir anillos/brazaletes",
     "localization_authors": "TheRutileMarmot, GezelVT"
 }
