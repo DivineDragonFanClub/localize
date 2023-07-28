@@ -21,5 +21,6 @@
     "combat_ui_enabled_helptext": "戦闘中にUIを表示します",
     "combat_ui_disabled_helptext": "戦闘中にUIを表示しません",
     "ring_polish_rumble_menu_item_name": "指輪磨き中の振動",
+    "ring_dlc_polish_rumble_menu_item_name": "指輪・腕輪磨き中の振動",
     "localization_authors": "DogeThis"
 }
