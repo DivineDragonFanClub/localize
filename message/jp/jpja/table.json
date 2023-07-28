@@ -14,5 +14,12 @@
     "update_later": "後で",
     "phoenix_mode_name": "フェニックス",
     "phoenix_mode_help": "失った仲間はすぐ復活、絶対に死なないモード",
+    "combat_popup_name": "戦闘のダメージポップアップ",
+    "combat_popup_enabled_helptext": "戦闘中にダメージポップアップを表示します",
+    "combat_popup_disabled_helptext": "戦闘中にダメージポップアップを表示しません",
+    "combat_ui_name": "戦闘UI",
+    "combat_ui_enabled_helptext": "戦闘中にUIを表示します",
+    "combat_ui_disabled_helptext": "戦闘中にUIを表示しません",
+    "ring_polish_rumble_menu_item_name": "指輪磨き中の振動",
     "localization_authors": "DogeThis"
 }
