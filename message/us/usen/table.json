@@ -21,5 +21,6 @@
     "combat_ui_enabled_helptext": "Display the UI during combat.",
     "combat_ui_disabled_helptext": "Hide the UI during combat.",
     "ring_polish_rumble_menu_item_name": "Rumble During Ring Polishing",
+    "ring_dlc_polish_rumble_menu_item_name": "Rumble During Ring/Bracelet Polishing",
     "localization_authors": "Raytwo, DogeThis"
 }
