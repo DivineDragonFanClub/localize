@@ -16,7 +16,7 @@
     "phoenix_mode_help": "Fallen units quickly return to battle.",
     "combat_popup_name": "Pop-ups During Combat",
     "combat_popup_enabled_helptext": "Display damage pop-ups during combat",
-    "combat_popup_disabled_helptext": "Do not display damage pop-ups during combat",
+    "combat_popup_disabled_helptext": "Hide damage pop-ups during combat",
     "ring_polish_rumble_menu_item_name": "Rumble During Ring Polishing",
     "localization_authors": "Raytwo, DogeThis"
 }
