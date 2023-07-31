@@ -1,4 +1,4 @@
-# Cobalt's localization
+# Cobalt Localization
 
 ### Useful information
 * Localizations are stored in JSON files called ``table.json`` which contain key-value pairs for the translations. All the key-value pairs currently in use are in [``message/us/usen/table.json``](https://github.com/DivineDragonFanClub/localize/blob/master/message/us/usen/table.json), which you can refer to.
