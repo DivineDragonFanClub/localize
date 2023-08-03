@@ -1,5 +1,3 @@
-#![feature(once_cell)]
-
 pub mod mess {
     use std::{
         sync::OnceLock,
@@ -9,7 +7,7 @@ pub mod mess {
     use include_dir::{include_dir, Dir};
 
 
-    static HASHES: OnceLock<HashMap<&str, String>> = OnceLock::new();
+    static mut HASHES: OnceLock<HashMap<&str, String>> = OnceLock::new();
     static MESS_DIR: Dir<'_> = include_dir!("$CARGO_MANIFEST_DIR/message");
 
     #[derive(Debug, Error)]
@@ -28,8 +26,18 @@ pub mod mess {
         DeserializeError(#[from] std::io::Error),
     }
 
+    fn map_languages<'a>(region: impl AsRef<str> + 'a) -> Option<&'a str> {
+        match region.as_ref() {
+            "eu/eues" => Some("us/uses"),
+            "us/usfr" => Some("eu/eufr"),
+            _ => None,
+        }
+    }
+
     pub fn initialize(region: impl AsRef<str>) -> Result<(), MessageError> {
         let region = region.as_ref().to_lowercase();
+
+        println!("Region: {}", &region);
 
         // Default to reading the US localization, as it is the officially endorsed one.
         let us_loc = MESS_DIR.get_file("us/usen/table.json")
@@ -42,9 +50,9 @@ pub mod mess {
             .map_err(|err| MessageError::DeserializeError(err.into()))?;
 
         // Process the labels for the user's region. Make sure to not read the US localization again, since we already did so.
-        if region != "us/usen" {
+        if region != "us/usen" || region != "eu/euen" {
             // It's not that big of a deal if the user's region is missing, in that case the US localization is already loaded.
-            if let Some(loc) = MESS_DIR.get_file(format!("{}/table.json", region)) {
+            if let Some(loc) = MESS_DIR.get_file(format!("{}/table.json", map_languages(&region).unwrap_or(&region))) {
                 let regional_loc = loc.contents_utf8()
                     .ok_or(MessageError::LocalizationEncoding)?;
 
@@ -56,12 +64,15 @@ pub mod mess {
             }
         }
 
-        HASHES.set(hashes).map_err(|_| MessageError::LocalizationInitialized)
+        unsafe {
+            let _ = HASHES.take();
+            HASHES.set(hashes).map_err(|_| MessageError::LocalizationInitialized)
+        }
     }
 
     /// Helper method to acquire the hashmap so it automatically checks if it is initialized.
     fn instance<'a>() -> Result<&'a HashMap<&'a str, String>, MessageError> {
-        HASHES.get().ok_or(MessageError::LocalizeNotInitialized)
+        unsafe { HASHES.get().ok_or(MessageError::LocalizeNotInitialized) }
     }
 
     /// Get a localized message by label.
