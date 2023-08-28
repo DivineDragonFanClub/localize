@@ -22,5 +22,10 @@
     "combat_ui_disabled_helptext": "Hide the UI during combat.",
     "ring_polish_rumble_menu_item_name": "Rumble During Ring Polishing",
     "ring_dlc_polish_rumble_menu_item_name": "Rumble During Ring/Bracelet Polishing",
+    "support_outfit_item_name": "Support Outfit",
+    "support_outfit_item_enabled_commandtext": "Battle",
+    "support_outfit_item_disabled_commandtext": "Default",
+    "support_outfit_item_enabled_helptext": "Use battle outfits in support cutscenes.",
+    "support_outfit_item_disabled_helptext": "Use default outfits in support cutscenes.",
     "localization_authors": "Raytwo, DogeThis, GezelVT"
 }
