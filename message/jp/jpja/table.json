@@ -22,5 +22,10 @@
     "combat_ui_disabled_helptext": "戦闘中にUIを表示しません",
     "ring_polish_rumble_menu_item_name": "指輪磨き中の振動",
     "ring_dlc_polish_rumble_menu_item_name": "指輪・腕輪磨き中の振動",
+    "support_outfit_item_name": "支援会話の衣装",
+    "support_outfit_item_enabled_commandtext": "戦闘衣装",
+    "support_outfit_item_disabled_commandtext": "デフォルト衣装",
+    "support_outfit_item_enabled_helptext": "支援会話中に戦闘衣装を着ます",
+    "support_outfit_item_disabled_helptext": "支援会話中にデフォルト衣装を着ます",
     "localization_authors": "DogeThis"
 }
