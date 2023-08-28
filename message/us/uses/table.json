@@ -22,5 +22,10 @@
     "combat_ui_disabled_helptext": "Oculta la interfaz durante el combate.",
     "ring_polish_rumble_menu_item_name": "Vibración al pulir anillos",
     "ring_dlc_polish_rumble_menu_item_name": "Vibración al pulir anillos/brazaletes",
+    "support_outfit_item_name": "Atuendo en las relaciones de apoyo",
+    "support_outfit_item_enabled_commandtext": "Batalla",
+    "support_outfit_item_disabled_commandtext": "Normal",
+    "support_outfit_item_enabled_helptext": "Los personajes usarán su atuendo de batalla.",
+    "support_outfit_item_disabled_helptext": "Los personajes usarán su atuendo normal.",
     "localization_authors": "TheRutileMarmot, GezelVT"
 }
