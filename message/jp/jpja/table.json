@@ -30,6 +30,6 @@
     "cobalt_settings_menu_name": "Cobalt設定",
     "cobalt_settings_menu_helptext": "Cobaltによって追加された設定を表示します",
     "cobalt_settings_action_name": "開く",
-    "cobalt_settings_title_bar_helptext": "必ずオープニングムービーをディセーブルしてください　Please make sure to disable the opening cutscene.",
+    "cobalt_settings_title_bar_helptext": "必ずオープニングムービーをディセーブルしてください",
     "localization_authors": "DogeThis"
 }
