@@ -27,5 +27,9 @@
     "support_outfit_item_disabled_commandtext": "デフォルト衣装",
     "support_outfit_item_enabled_helptext": "支援会話中に戦闘衣装を着ます",
     "support_outfit_item_disabled_helptext": "支援会話中にデフォルト衣装を着ます",
+    "cobalt_settings_menu_name": "Cobalt設定",
+    "cobalt_settings_menu_helptext": "Cobaltによって追加された設定を表示します",
+    "cobalt_settings_action_name": "開く",
+    "cobalt_settings_title_bar_helptext": "必ずオープニングムービーをディセーブルしてください　Please make sure to disable the opening cutscene.",
     "localization_authors": "DogeThis"
 }
