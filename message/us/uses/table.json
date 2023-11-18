@@ -27,5 +27,18 @@
     "support_outfit_item_disabled_commandtext": "Normal",
     "support_outfit_item_enabled_helptext": "Los personajes usarán su atuendo de batalla.",
     "support_outfit_item_disabled_helptext": "Los personajes usarán su atuendo normal.",
+    "cobalt_main_menu_title_bar_text": "No hay tanto que ver aquí.",
+    "reload_game_data": "Recargar GameData",
+    "reload_game_data_text": "Este proceso puede tomar hasta 10 segundos.",
+    "reload_game_data_proceed": "Proceder",
+    "reload_game_data_cancel": "Cancelar",
+    "reload_message": "Recargar MSBT",
+    "submenu_item_commandtext": "Abrir",
+    "cobalt_settings_submenu_item_name": "Cobalt Ajustes",
+    "cobalt_settings_submenu_item_helptext": "Ver ajustes agregados por Cobalt.",
+    "cobalt_settings_submenu_title": "Configurar los ajustes de Cobalt.",
+    "plugin_settings_submenu_item_name": "Ajustes de Plugins",
+    "plugin_settings_submenu_item_helptext": "Ver los ajustes agregados por plugins.",
+    "plugin_settings_submenu_title": "Configurar los ajustes de plugins.",																			  
     "localization_authors": "TheRutileMarmot, GezelVT"
 }
