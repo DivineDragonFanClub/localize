@@ -22,5 +22,18 @@
     "combat_ui_disabled_helptext": "Ne jamais afficher l'interface de combat.",
     "ring_polish_rumble_menu_item_name": "Vibr. polissage d'anneaux",
     "ring_dlc_polish_rumble_menu_item_name": "Vibr. polissage d'anneaux/bracelets",
+    "cobalt_main_menu_title_bar_text": "Pas grand chose à voir ici",
+    "reload_game_data": "Recharger GameData",
+    "reload_game_data_text": "Le processus peut prendre jusqu'à 10 secondes",
+    "reload_game_data_proceed": "Confirmer",
+    "reload_game_data_cancel": "Annuler",
+    "reload_message": "Recharger MSBT",
+    "submenu_item_commandtext": "Afficher",
+    "cobalt_settings_submenu_item_name": "Paramètres de Cobalt",
+    "cobalt_settings_submenu_item_helptext": "Affiche les paramètres ajoutés par Cobalt.",
+    "cobalt_settings_submenu_title": "Réglez les paramètres de Cobalt.",
+    "plugin_settings_submenu_item_name": "Paramètres des plugins",
+    "plugin_settings_submenu_item_helptext": "Affiche les paramètres ajoutés par plugins.",
+    "plugin_settings_submenu_title": "Réglez les paramètres des plugins.",
     "localization_authors": "Raytwo"
 }
