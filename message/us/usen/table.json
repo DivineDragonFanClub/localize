@@ -29,7 +29,7 @@
     "support_outfit_item_disabled_helptext": "Use default outfits in support cutscenes.",
     "cobalt_main_menu_title_bar_text": "Not much to see here",
     "reload_game_data": "Reload game data",
-    "reload_game_data_text": "This process can take up to 10 seconds",
+    "reload_game_data_text": "This process can take up to 10 seconds.",
     "reload_game_data_proceed": "Proceed",
     "reload_game_data_cancel": "Cancel",
     "reload_message": "Reload messages",
