@@ -30,10 +30,10 @@
     "reload_message": "Recharger MSBT",
     "submenu_item_commandtext": "Afficher",
     "cobalt_settings_submenu_item_name": "Paramètres de Cobalt",
-    "cobalt_settings_submenu_item_helptext": "Affiche les paramètres ajoutés par Cobalt.",
+    "cobalt_settings_submenu_item_helptext": "Afficher les paramètres ajoutés par Cobalt.",
     "cobalt_settings_submenu_title": "Réglez les paramètres de Cobalt.",
     "plugin_settings_submenu_item_name": "Paramètres des plugins",
-    "plugin_settings_submenu_item_helptext": "Affiche les paramètres ajoutés par plugins.",
+    "plugin_settings_submenu_item_helptext": "Afficher les paramètres ajoutés par plugins.",
     "plugin_settings_submenu_title": "Réglez les paramètres des plugins.",
     "localization_authors": "Raytwo"
 }
