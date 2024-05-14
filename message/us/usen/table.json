@@ -42,6 +42,11 @@
     "plugin_settings_submenu_title": "Adjust plugin settings to your liking.",
     "global_settings_title": "Global Settings",
     "render_scale_name": "Render Scale",
-    "render_scale_helptext": "Higher values will increase visual quality, but decrease performance.",
+    "render_scale_helptext": "Higher values will increase visual quality.",
+    "fps_name": "Frame rate (FPS)",
+    "fps_30": "The game's default.",
+    "fps_60": "Smoother gameplay.",
+    "lod_name": "LOD Bias",
+    "lod_helptext": "Higher values will increase view distance.",
     "localization_authors": "Raytwo, DogeThis, GezelVT"
 }
