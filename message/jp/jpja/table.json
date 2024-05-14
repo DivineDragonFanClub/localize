@@ -44,8 +44,8 @@
     "render_scale_name": "レンだースケール",
     "render_scale_helptext": "値が大きいほど映像品質が向上します",
     "fps_name": "フレームレート",
-    "fps_30": "ゲームのデフォルト",
-    "fps_60": "より滑らかなゲームプレイ",
+    "fps_helptext_30": "ゲームのデフォルト",
+    "fps_helptext_60": "より滑らかなゲームプレイ",
     "lod_name": "LODバイアス",
     "lod_helptext": "値が大きくなるほどビューの距離は長くなります",
     "localization_authors": "DogeThis"
