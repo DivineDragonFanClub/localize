@@ -10,6 +10,7 @@
     "rumble_menu_item_enabled_helptext": "Controllers will rumble.",
     "rumble_menu_item_disabled_helptext": "Controllers will not rumble.",
     "update_found_message": "An update for Cobalt has been found. Install it?",
+    "update_available_name": "Update available!",
     "update_accept": "Accept",
     "update_later": "Later",
     "phoenix_mode_name": "Phoenix",
