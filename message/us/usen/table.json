@@ -41,7 +41,7 @@
     "plugin_settings_submenu_item_name": "Plugin Settings",
     "plugin_settings_submenu_item_helptext": "Show the settings added by plugins.",
     "plugin_settings_submenu_title": "Adjust plugin settings to your liking.",
-    "global_settings_title": "Global Settings",
+    "global_settings_title": "Global settings",
     "render_scale_name": "Render Scale",
     "render_scale_helptext": "Higher values will increase visual quality.",
     "render_scale_toggle_name": "Enable Render Scale",
